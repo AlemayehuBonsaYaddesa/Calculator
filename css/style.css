@@ -23,5 +23,9 @@ nav ul{
     color:white;
 }
 li{
-    background-color: red;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    color:black;
+
 }
